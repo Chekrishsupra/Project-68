@@ -1,0 +1,30 @@
+body {
+    margin: 0;
+    text-align: center;
+}
+.line {
+    height: 6px;
+    background-color: black;
+    width: 70px;
+    margin: 8px auto;
+}
+#videos {
+    margin-top: 23%;
+}
+.my_nav_bar {
+    position: sticky;
+    top: 0;
+    z-index: 9999;
+}
+.space {
+    margin-left: 45%;
+}
+.line2 {
+    height: 6px;
+    background-color: yellow;
+    width: 500px;
+    margin: 8px auto;
+}
+span {
+    word-spacing: 30px;
+}
